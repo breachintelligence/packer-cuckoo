@@ -1,0 +1,3 @@
+#ignore packer artifacts
+packer_cache/*
+output*
